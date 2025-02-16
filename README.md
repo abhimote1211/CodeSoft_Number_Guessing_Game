@@ -1,4 +1,4 @@
-```markdown
+
 # CodeSoft C++ Internship Task 1: Number Guessing Game
 
 ## Task Overview
@@ -23,13 +23,13 @@ This project is a simple number guessing game implemented in C++ for CodeSoft's 
 1. **Clone this repository:**
 
     ```bash
-    git clone https://github.com/abhimote1211/codesoft-task1-cpp.git
+    git clone https://github.com/abhimote1211/CodeSoft_Number_Guessing_Game.cpp.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd codesoft-task1-cpp
+    cd CodeSoft_Number_Guessing_Game.cpp
     ```
 
 3. **Compile the C++ code:**
@@ -37,7 +37,7 @@ This project is a simple number guessing game implemented in C++ for CodeSoft's 
     Use the following command to compile the code using a C++ compiler like `g++`:
 
     ```bash
-    g++ -o guessing_game main.cpp
+    g++ -o CodeSoft_Number_Guessing_Game.cpp
     ```
 
 4. **Run the program:**
@@ -45,7 +45,7 @@ This project is a simple number guessing game implemented in C++ for CodeSoft's 
     After compilation, run the game with the following command:
 
     ```bash
-    ./guessing_game
+    ./CodeSoft_Number_Guessing_Game
     ```
 
 ## Usage
@@ -56,7 +56,6 @@ This project is a simple number guessing game implemented in C++ for CodeSoft's 
 
 ## Example Interaction
 
-```
 *****************************************************************************
 *************************** Guessing a Number *******************************
 *****************************************************************************
@@ -79,11 +78,10 @@ Enter
 other Key to Quit
 Enter Your Choice: 0
 Thank you for playing!
-```
 
 ## Code Structure
 
-- `main.cpp`: Contains the main program logic for the guessing game.
+- `CodeSoft_Number_Guessing_Game.cpp`: Contains the main program logic for the guessing game.
 - Includes basic C++ libraries (`iostream`, `ctime`) for input/output operations and random number generation.
 
 ## Contributing
@@ -93,12 +91,11 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
----
+
 
 ### Notes:
-- **`main.cpp`**: Make sure you update the file name if your C++ code is saved under a different file name.
-- **Repository URL**: Replace `https://github.com/yourusername/codesoft-task1-cpp.git` with the actual GitHub repository link.
+- **`CodeSoft_Number_Guessing_Game.cpp`**: Make sure you update the file name if your C++ code is saved under a different file name.
+- **Repository URL**: Replace `https://github.com/yourusername/CodeSoft_Number_Guessing_Game.cpp.git` with the actual GitHub repository link.
 - **Contributing Section**: If you plan to open up for contributions, the section above is already set up. If not, you can remove it.
 - **License**: I’ve included the MIT License in this template. You can change it based on your preferences or add your own licensing details.
