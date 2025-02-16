@@ -96,6 +96,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Notes:
 - **`CodeSoft_Number_Guessing_Game.cpp`**: Make sure you update the file name if your C++ code is saved under a different file name.
-- **Repository URL**: Replace `https://github.com/yourusername/CodeSoft_Number_Guessing_Game.cpp.git` with the actual GitHub repository link.
+- **Repository URL**: Replace `https://github.com/abhimote1211/CodeSoft_Number_Guessing_Game.cpp.git` with the actual GitHub repository link.
 - **Contributing Section**: If you plan to open up for contributions, the section above is already set up. If not, you can remove it.
 - **License**: I’ve included the MIT License in this template. You can change it based on your preferences or add your own licensing details.
